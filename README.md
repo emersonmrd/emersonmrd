@@ -6,13 +6,11 @@
 ##
 
 ### Stats:
+<div>
 <a href="https://github.com/emersonmrd">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emersonmrd&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/emersonmrd">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonmrd&layout=compact&langs_count=16&theme=dark" />
-</a>
-
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=emersonmrd&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonmrd&layout=compact&langs_count=16&theme=dark" />
+</div>
 
 ##
  ### Langs: 
