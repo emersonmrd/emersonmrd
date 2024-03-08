@@ -8,7 +8,7 @@
 <p>
   Hey 👋, I'm Emerson, a game enthusiast from Brazil!
 
-  - 📚 I'm currently studying English, game development, and web development on my own.
+  - 📚 I'm currently studying English, programming, and game development on my own.
 
   - 🎯 I'm seeking my first job opportunity. My dream is to work in game development someday and live in a cold place.
 
