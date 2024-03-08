@@ -10,7 +10,7 @@
 
   - 📚 I'm currently studying English, programming, and game development on my own.
 
-  - 🎯 I'm seeking my first job opportunity. My dream is to work in game development someday and live in a cold place.
+  - 🎯 My dream is to work in programming someday and live in a cold place.
 
 </p>
 
