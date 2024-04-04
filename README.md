@@ -8,7 +8,7 @@
 <p>
   Hey 👋, I'm Emerson, a game enthusiast from Brazil!
 
-  - 📚 I'm currently studying English, programming, and game development on my own.
+  - 📚 I'm currently studying English and programming on my own.
 
   - 🎯 My dream is to work in programming someday and live in a cold place.
 
@@ -18,9 +18,9 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 22 years old, currently living in Brazil. While working with computer networks, I am in the process of transitioning my career to development.
+  - 💬 I am 23 years old, currently living in Brazil. My interests are Computer Science and Biological Sciences."
 
-  - ⚡ I love chillin' with movies and series, and diving into cool story games and online gaming in my free time
+  - ⚡ I love chillin' with movies and series, and diving into cool story games in my free time
 </details>
 
 <!-- Links -->
