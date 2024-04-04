@@ -18,7 +18,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 23 years old, currently living in Brazil. My interests are Computer Science and Biological Sciences."
+  - 💬 I am 23 years old, currently living in Brazil. My interests are Computer Science and Biological Sciences.
 
   - ⚡ I love chillin' with movies and series, and diving into cool story games in my free time
 </details>
