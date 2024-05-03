@@ -8,9 +8,9 @@
 <p>
   Hey 👋, I'm Emerson, a game enthusiast from Brazil!
 
-  - 📚 I'm currently studying English and programming on my own.
+- 📚 I'm currently studying english and data science on my own.
 
-  - 🎯 My dream is to work in programming someday and live in a cold place.
+- 🎯 My dream is to work in data science someday and live in a cold place.
 
 </p>
 
