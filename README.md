@@ -44,6 +44,11 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Web Projects](https://emersonmrd.github.io/)
+
+ <!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/emersonmrd/emersonmrd/assets/138334126/fdd9071d-e5c7-4ba7-911d-741544b4856e" alt="Gif">
+</p>
   
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
@@ -53,6 +58,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center"  alt="csharp logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+    <img align="center"  alt="python logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   </div>
   
   <!-- Skills: Tools & Frameworks -->
@@ -61,6 +67,12 @@
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="GitLogo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="GitHubLogo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-    <img align="center" alt="unity logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+    
   </div>
-  
+
+   <!-- Skills: Libraries -->
+  <div style="flex-basis: 48%;">
+    <h3>Libraries</h3>
+    <img align="center" alt="unity logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+    <img align="center" alt="react logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </div>
