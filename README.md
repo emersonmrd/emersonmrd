@@ -36,7 +36,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=emersonmrd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonmrd&layout=compact&langs_count=16&theme=dark" height="150" width="400" alt="languages graph"/>
 </div>
 
 ###
@@ -64,6 +63,7 @@
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
+    <img align="center" alt="unity logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="GitLogo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="GitHubLogo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
@@ -73,6 +73,5 @@
    <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
     <h3>Libraries</h3>
-    <img align="center" alt="unity logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
     <img align="center" alt="react logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </div>
