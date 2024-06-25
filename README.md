@@ -45,6 +45,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Web Projects](https://emersonmrd.github.io/)
+- [Análise de Dados de Livros e Visualização](https://github.com/emersonmrd/zero_ao_aplicativoweb)
 
  <!-- GIF -->
 <p align="left">
