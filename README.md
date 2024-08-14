@@ -1,8 +1,5 @@
 <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Hello+World!)](https://git.io/typing-svg)
 
 <!-- Presentation -->
 <p>
@@ -42,7 +39,6 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Web Projects](https://emersonmrd.github.io/)
-- [Análise de Dados de Livros e Visualização](https://github.com/emersonmrd/zero_ao_aplicativoweb)
 - [Fifa Dashboard](https://github.com/emersonmrd/fifa_dashboard)
 
  <!-- GIF -->
