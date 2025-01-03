@@ -36,11 +36,6 @@
 
 ###
 
-<!-- Portfolio -->
-## Portfolio:
-- [Web Projects](https://emersonmrd.github.io/)
-- [Fifa Dashboard](https://github.com/emersonmrd/fifa_dashboard)
-
  <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/emersonmrd/emersonmrd/assets/138334126/fdd9071d-e5c7-4ba7-911d-741544b4856e" alt="Gif">
