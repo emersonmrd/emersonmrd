@@ -3,16 +3,20 @@
 
 <!-- Presentation -->
 <p>
-  Hey 👋, I'm Emerson, a game enthusiast from Brazil!
+<h3 align="center"> Hey 👋, I'm Emerson, a game enthusiast from Brazil!</h3>
+ 
 
-- 📚 I'm currently studying english and data science on my own.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&duration=1000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=30&lines=%F0%9F%94%AD+I%E2%80%99m+working+as+Network+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&duration=1000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=30&lines=%F0%9F%93%9A+I'm+currently+studying%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&duration=1000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=1000&height=20&lines=Artificial+Intelligence;Machine+Learning;Data+Science;English)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&duration=1000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=30&lines=%F0%9F%8E%AF+My+dream+is+to+build+a+meaningful+career+in+data+science+while+living+in+a+serene+snowy+place+where+the+cold+inspires+creativity+and+focus.)](https://git.io/typing-svg)
 
-- 🎯 My dream is to work in data science someday and live in a cold place.
+
 
 </p>
 
 <!-- Dropdown -->
-<details>
+<details align="center">
   <summary>👨‍💻 More about me</summary>
 
   - 💬 I am 23 years old, living in Brazil, and I have an immense curiosity about technology, science, psychology and philosophy.
@@ -21,12 +25,21 @@
 </details>
 
 <!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-martins-951321184/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/emersonmrd)
+<div align="center">
+  <a href="https://www.linkedin.com/in/emerson-martins-951321184/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+  <a href="https://www.kaggle.com/emersonmrd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Kaggle logo" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=emersonmrd.emersonmrd&"  />
+</div>
 
 
 <!-- GithubStats -->
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
