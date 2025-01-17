@@ -34,7 +34,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=emersonmrd.emersonmrd&"  />
+  <img src="https://profile-counter.glitch.me/emersonmrd/count.svg?"  />
 </div>
 
 
@@ -85,4 +85,5 @@
     <img align="center" alt="Plotly" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
     <img align="center" alt="Matplotlib" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
     <img align="center" alt="Scikitlearn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+    <img align="center" alt="microsoftsqlserver logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   </div>
