@@ -8,8 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&duration=1000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=30&lines=%F0%9F%94%AD+I%E2%80%99m+working+as+Network+Analyst)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&duration=1000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=30&lines=%F0%9F%93%9A+I'm+currently+studying%3A)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&duration=1000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=1000&height=20&lines=Artificial+Intelligence;Machine+Learning;Data+Science;English)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&duration=1000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=30&lines=%F0%9F%8E%AF+My+dream+is+to+build+a+meaningful+career+in+data+science+while+living+in+a+serene+snowy+place+where+the+cold+inspires+creativity+and+focus.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&duration=1000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=1000&height=20&lines=DevOps;Software+Development;Artificial+Intelligence;Machine+Learning;English;German;Spanish;)](https://git.io/typing-svg)
+
 
 
 
@@ -19,7 +19,7 @@
 <details align="center">
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 23 years old, living in Brazil, and I have an immense curiosity about technology, science, psychology and philosophy.
+  - 💬 I live in Brazil and have an immense curiosity about technology, science, psychology, and philosophy.
 
   - ⚡ I love chillin' with movies and series, and diving into cool story games in my free time
 </details>
