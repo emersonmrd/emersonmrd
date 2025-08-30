@@ -58,34 +58,45 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img align="center"  alt="python logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img align="center"  alt="csharp logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://skillicons.dev/icons?i=c" />
+    <img align="center" alt="C++" height="30" width="40" src="https://skillicons.dev/icons?i=cpp" />
+    <img align="center" alt="C#" height="30" width="40" src="https://skillicons.dev/icons?i=cs" />
+    <img align="center" alt="Python" height="30" width="40" src="https://skillicons.dev/icons?i=py" />
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://skillicons.dev/icons?i=js" />
+    <img align="center" alt="HTML5" height="30" width="40" src="https://skillicons.dev/icons?i=html" />
+    <img align="center" alt="CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css" />
   </div>
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img align="center" alt="Anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-    <img align="center" alt="GitLogo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="GitHubLogo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img align="center" alt="unity logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+    <img align="center" alt="Bash" height="30" width="40" src="https://skillicons.dev/icons?i=bash" />
+    <img align="center" alt="putty logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
+    <img align="center" alt="ssh logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
+    <img align="center" alt="Git" height="30" width="40" src="https://skillicons.dev/icons?i=git" />
+    <img align="center" alt="GitHub" height="30" width="40" src="https://skillicons.dev/icons?i=github" />
+    <img align="center" alt="Grafana" height="30" width="40" src="https://skillicons.dev/icons?i=grafana" />
+    <img align="center" alt="Zabbix" height="30" width="40" src="https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white" />
+    <img align="center" alt="VSCode" height="30" width="40" src="https://skillicons.dev/icons?i=vscode" />
+    <img align="center" alt="Visual Studio" height="30" width="40" src="https://skillicons.dev/icons?i=visualstudio" />
+    <img align="center" alt="Unity" height="30" width="40" src="https://skillicons.dev/icons?i=unity" />
+    <img align="center" alt="Anaconda" height="30" width="40" src="https://cdn.simpleicons.org/anaconda/44A833" />
+    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.simpleicons.org/jupyter/F37626" />
+    <img align="center" alt="mysql logo" height="30" width="40" src="https://skillicons.dev/icons?i=mysql" />
+    <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+    <img align="center" alt="microsoftsqlserver logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   </div>
 
    <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
     <h3>Libraries</h3>
-    <img align="center" alt="Numpy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+    <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.simpleicons.org/numpy/013243" />
     <img align="center" alt="Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
     <img align="center" alt="Seaborn" height="40" width="40"  src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
     <img align="center" alt="Plotly" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
     <img align="center" alt="Matplotlib" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
     <img align="center" alt="Scikitlearn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-    <img align="center" alt="microsoftsqlserver logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+    
   </div>
 
   <br><br>
