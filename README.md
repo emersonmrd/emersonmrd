@@ -34,7 +34,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/emersonmrd/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=emersonmrd.emersonmrd&"  />
 </div>
 
 
@@ -87,3 +87,14 @@
     <img align="center" alt="Scikitlearn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
     <img align="center" alt="microsoftsqlserver logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   </div>
+
+  <br><br>
+
+<!-- Pacman -->
+  <div style="flex-basis: 48%;">
+    <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emersonmrd/emersonmrd/output/pacman-contribution-graph-dark.svg">
+     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emersonmrd/emersonmrd/output/pacman-contribution-graph.svg">
+     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emersonmrd/emersonmrd/output/pacman-contribution-graph.svg">
+    </picture>
+   </div>
