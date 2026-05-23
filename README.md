@@ -114,7 +114,7 @@ Hi 👋, I'm Emerson — Backend Developer | Network Automation | Infrastructure
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss"/>
 
 </p>
 
